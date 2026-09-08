@@ -8,16 +8,16 @@ Die enthaltenen Projekte bleiben eigenständige Git-Repositories und sind hier a
 
 | Bereich | Repository |
 |---|---|
-| Gemeinsame Übersetzungen | [Scribe-i18n](https://github.com/Letoisalwaystaken/Scribe-i18n) |
-| Android-App | [Scribe-Android](https://github.com/Letoisalwaystaken/Scribe-Android) |
-| Sprachdaten-Werkzeuge | [Scribe-Data](https://github.com/Letoisalwaystaken/Scribe-Data) |
-| Organisationsdokumentation | [Organization](https://github.com/Letoisalwaystaken/Organization) |
-| iOS-App | [Scribe-iOS](https://github.com/Letoisalwaystaken/Scribe-iOS) |
-| Server | [Scribe-Server](https://github.com/Letoisalwaystaken/Scribe-Server) |
-| Website | [scri.be](https://github.com/Letoisalwaystaken/scri.be) |
-| Desktop-App | [Scribe-Desktop](https://github.com/Letoisalwaystaken/Scribe-Desktop) |
-| Präsentationen | [slides](https://github.com/Letoisalwaystaken/slides) |
-| GitHub-Konfiguration | [.github](https://github.com/Letoisalwaystaken/.github) |
+| Gemeinsame Übersetzungen | [Scribe-i18n](https://github.com/leto-scribe/Scribe-i18n) |
+| Android-App | [Scribe-Android](https://github.com/leto-scribe/Scribe-Android) |
+| Sprachdaten-Werkzeuge | [Scribe-Data](https://github.com/leto-scribe/Scribe-Data) |
+| Organisationsdokumentation | [Organization](https://github.com/leto-scribe/Organization) |
+| iOS-App | [Scribe-iOS](https://github.com/leto-scribe/Scribe-iOS) |
+| Server | [Scribe-Server](https://github.com/leto-scribe/Scribe-Server) |
+| Website | [scri.be](https://github.com/leto-scribe/scri.be) |
+| Desktop-App | [Scribe-Desktop](https://github.com/leto-scribe/Scribe-Desktop) |
+| Präsentationen | [slides](https://github.com/leto-scribe/slides) |
+| GitHub-Konfiguration | [.github](https://github.com/leto-scribe/.github) |
 
 ## Online-Verwendung
 
