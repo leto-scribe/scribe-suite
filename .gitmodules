@@ -1,40 +1,40 @@
 [submodule "projects/Scribe-i18n"]
 	path = projects/Scribe-i18n
-	url = https://github.com/Letoisalwaystaken/Scribe-i18n.git
+	url = https://github.com/leto-scribe/Scribe-i18n.git
 	branch = main
 [submodule "projects/Scribe-Android"]
 	path = projects/Scribe-Android
-	url = https://github.com/Letoisalwaystaken/Scribe-Android.git
+	url = https://github.com/leto-scribe/Scribe-Android.git
 	branch = main
 [submodule "projects/Scribe-Data"]
 	path = projects/Scribe-Data
-	url = https://github.com/Letoisalwaystaken/Scribe-Data.git
+	url = https://github.com/leto-scribe/Scribe-Data.git
 	branch = main
 [submodule "projects/Organization"]
 	path = projects/Organization
-	url = https://github.com/Letoisalwaystaken/Organization.git
+	url = https://github.com/leto-scribe/Organization.git
 	branch = main
 [submodule "projects/Scribe-iOS"]
 	path = projects/Scribe-iOS
-	url = https://github.com/Letoisalwaystaken/Scribe-iOS.git
+	url = https://github.com/leto-scribe/Scribe-iOS.git
 	branch = main
 [submodule "projects/Scribe-Server"]
 	path = projects/Scribe-Server
-	url = https://github.com/Letoisalwaystaken/Scribe-Server.git
+	url = https://github.com/leto-scribe/Scribe-Server.git
 	branch = main
 [submodule "projects/scri.be"]
 	path = projects/scri.be
-	url = https://github.com/Letoisalwaystaken/scri.be.git
+	url = https://github.com/leto-scribe/scri.be.git
 	branch = main
 [submodule "projects/Scribe-Desktop"]
 	path = projects/Scribe-Desktop
-	url = https://github.com/Letoisalwaystaken/Scribe-Desktop.git
+	url = https://github.com/leto-scribe/Scribe-Desktop.git
 	branch = main
 [submodule "projects/slides"]
 	path = projects/slides
-	url = https://github.com/Letoisalwaystaken/slides.git
+	url = https://github.com/leto-scribe/slides.git
 	branch = main
 [submodule "projects/.github"]
 	path = projects/.github
-	url = https://github.com/Letoisalwaystaken/.github.git
+	url = https://github.com/leto-scribe/.github.git
 	branch = main
